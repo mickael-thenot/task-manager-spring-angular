@@ -1,6 +1,6 @@
 # Task Manager — Spring Boot + Angular
 
-Application fullstack de gestion de tâches collaborative. Ce projet est développé dans le cadre de ma préparation au stage de fin d'études (M1 Informatique).
+Application fullstack de gestion de tâches collaborative. Ce projet est développé dans le cadre de ma préparation au stage optionnel de 6 mois du deuxième semestre de M1 Informatique.
 
 ## 🎯 Objectif
 
